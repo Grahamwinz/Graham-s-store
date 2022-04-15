@@ -1,0 +1,147 @@
+.intro {
+    text-align: center;
+  
+}
+.intro1 {
+    text-align: center;
+    
+}
+.nike {
+    display: block;
+    text-align: center  
+}
+
+.nike img {
+    width: 300px;
+}
+
+.adidas {
+    display: block;
+    text-align: center
+    
+}
+
+.adidas img {
+    width: 300px;
+    
+}
+
+.nike1 {
+    text-align: center;
+    color: rgb(223, 26, 26);
+}
+.adidas1 {
+    text-align: center;
+    color: rgb(70, 193, 250);
+}
+.vans {
+    display: block;
+    text-align: center;
+    
+}
+
+.vans img {
+    width: 300px;
+   
+}
+.vans1 {
+    text-align: center;
+}
+.nikepage {
+    text-align: center;
+    color: white;
+}
+.offwhitechicago img {
+    width: 300px;
+}
+.offwhiteunc img {
+    width: 300px;
+}
+.offwhitewhite img {
+    width: 300px;
+}
+.homepage {
+    display: block;
+    text-align: center;
+}
+.homepage img {
+    width: 300px;
+    display: block;
+    text-align: left;
+
+}
+.nikebody {
+ background-image: url(Images/nikebackground3.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.chicago {
+    color: white;
+}
+.unc {
+    color: white;
+}
+.white {
+    color: white;
+}
+.nav {
+    text-align: center;
+    
+}
+.lemonade img {
+    display: block;
+    width: 300px;
+}
+.mocha img {
+    width: 300px;
+}
+.patent img {
+    width: 300px;
+}
+.af1 {
+    color: white;
+}
+.bread {
+    color: white;
+}
+.mocha1 {
+    color: white;
+}
+.adapt img {
+    width: 300px;
+}
+.forum img {
+    width: 300px;
+}
+.superstar img {
+    width: 300px;
+}
+.adidasbody {
+    background-image: url(Images/adudasbackground.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.DON img {
+    width: 300px;
+}
+.adidashead {
+    text-align: center;
+}
+.vansog img {
+    width: 300px;
+}
+.slip img {
+    width: 300px;
+}
+.vans3 img {
+    width: 300px;
+}
+.vansbody {
+    background-image: url(Images/vans\ backgrounds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vansheader {
+    text-align: center
+    ;
+}
